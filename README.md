@@ -26,13 +26,6 @@ I'm passionate about software development, learning new technologies, and buildi
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emryorulmaz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emryorulmaz&theme=tokyonight&hide_border=true)
-
----
 
 ### 🤝 Connect with Me
 
