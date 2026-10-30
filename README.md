@@ -30,6 +30,8 @@ I'm passionate about software development, learning new technologies, and buildi
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-yorulmaz-4b5555331/)
+
+
 📧 Email: eyorulmaze@hotmail.com
 
 📧 Feel free to connect with me!
